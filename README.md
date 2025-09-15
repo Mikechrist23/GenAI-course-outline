@@ -18,7 +18,8 @@ This repository contains the complete outline and links to Microsoft’s free **
 
 ## 03 – Using Generative AI Responsibly
 **Learn:** Best practices for building responsible Generative AI apps.  
-🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners)
+🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/using-generative-ai-responsibly-generative-ai-for-beginners)
+
 
 ## 04 – Understanding Prompt Engineering Fundamentals
 **Learn:** Hands-on prompt engineering basics.  
