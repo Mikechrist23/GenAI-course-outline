@@ -1,77 +1,81 @@
 # Microsoft Generative AI for Beginners – Full Course Outline
 
+This repository contains the complete outline and links to Microsoft’s free **Generative AI for Beginners** course (18 parts).
+
+---
+
 ## 00 – Course Setup
 **Learn:** How to set up your development environment.  
-🔗 [Course Link](https://lnkd.in/du5cFnSC)
+🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners)
 
 ## 01 – Introduction to Generative AI and LLMs
-**Learn:** Understanding what Generative AI is and how Large Language Models (LLMs) work.  
-🔗 [Course Link](https://lnkd.in/dPSzr2CT)
+**Learn:** What Generative AI is and how Large Language Models (LLMs) work.  
+🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/introduction-to-generative-ai-and-llms-generative-ai-for-beginners)
 
 ## 02 – Exploring and Comparing Different LLMs
 **Learn:** How to select the right model for your use case.  
-🔗 [Course Link](https://lnkd.in/dkafWHzT)
+🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners)
 
 ## 03 – Using Generative AI Responsibly
-**Learn:** How to build Generative AI applications responsibly.  
-🔗 [Course Link](https://lnkd.in/dUceTrBn)
+**Learn:** Best practices for building responsible Generative AI apps.  
+🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners)
 
 ## 04 – Understanding Prompt Engineering Fundamentals
-**Learn:** Hands-on prompt engineering best practices.  
-🔗 [Course Link](https://lnkd.in/dsTgJ33T)
+**Learn:** Hands-on prompt engineering basics.  
+🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners)
 
 ## 05 – Creating Advanced Prompts
-**Learn:** How to apply advanced prompt engineering techniques that improve the outcome of your prompts.  
-🔗 [Course Link](https://lnkd.in/dzdRD2DE)
+**Learn:** How to improve prompt outcomes with advanced techniques.  
+🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners)
 
 ## 06 – Building Text Generation Applications
-**Build:** A text generation app using Azure OpenAI / OpenAI API.  
-🔗 [Course Link](https://lnkd.in/dszEqXhS)
+**Build:** A text generation app with Azure OpenAI / OpenAI API.  
+🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners)
 
 ## 07 – Building Chat Applications
-**Build:** Techniques for efficiently building and integrating chat applications.  
-🔗 [Course Link](https://lnkd.in/d62eCmXd)
+**Build:** Techniques for chat application integration.  
+🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners)
 
 ## 08 – Building Search Apps with Vector Databases
-**Build:** A search application that uses embeddings to search for data.  
-🔗 [Course Link](https://lnkd.in/dfjNnnkU)
+**Build:** A semantic search app using embeddings and vector DBs.  
+🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/building-search-apps-vector-databases-generative-ai-for-beginners)
 
 ## 09 – Building Image Generation Applications
-**Build:** An image generation application.  
-🔗 [Course Link](https://lnkd.in/dGz3qAKu)
+**Build:** An image generation app.  
+🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners)
 
 ## 10 – Building Low-Code AI Applications
-**Build:** A Generative AI application using Low Code tools.  
-🔗 [Course Link](https://lnkd.in/davKKzfx)
+**Build:** A Generative AI app using low-code tools.  
+🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners)
 
 ## 11 – Integrating External Applications with Function Calling
-**Build:** What function calling is and its use cases for applications.  
+**Build:** How function calling works and use cases.  
 🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/integrating-external-applications-with-function-calling-generative-ai-for-beginners)
 
 ## 12 – Designing UX for AI Applications
-**Learn:** How to apply UX design principles when developing Generative AI applications.  
+**Learn:** UX design principles for AI-powered applications.  
 🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/designing-ux-for-ai-applications-generative-ai-for-beginners)
 
 ## 13 – Securing Your Generative AI Applications
-**Learn:** The threats and risks to AI systems and methods to secure these systems.  
+**Learn:** Risks, threats, and security considerations.  
 🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/securing-your-generative-ai-applications-generative-ai-for-beginners)
 
 ## 14 – The Generative AI Application Lifecycle
-**Learn:** The tools and metrics to manage the LLM lifecycle and LLMOps.  
-🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/the-generative-ai-application-lifecycle-generative-ai-for-beginners)
+**Learn:** LLMOps, metrics, tools, and lifecycle management.  
+🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners)
 
 ## 15 – Retrieval Augmented Generation (RAG) and Vector Databases
-**Build:** An application using a RAG framework to retrieve embeddings from a vector database.  
+**Build:** An app using RAG + embeddings from a vector database.  
 🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/retrieval-augmented-generation-rag-and-vector-databases-generative-ai-for-beginners)
 
 ## 16 – Open Source Models and Hugging Face
-**Learn:** Open-source LLMs, Hugging Face, benefits, comparisons, and fine-tuning options.  
+**Learn:** Open-source LLMs and Hugging Face.  
 🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/open-source-models-and-hugging-face-generative-ai-for-beginners)
 
 ## 17 – Fine-Tuning LLMs
-**Learn:** How to fine-tune large language models: techniques, tools, and when to fine-tune.  
-🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/fine-tuning-llms-generative-ai-for-beginners)
+**Learn:** When and how to fine-tune large language models.  
+🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/finetuning-llms-generative-ai-for-beginners)
 
 ## 18 – Scaling Models & Next Steps
-**Learn:** How to scale generative AI models and applications, best practices, deployment, monitoring, and what to do after the course.  
-🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/scaling-models-and-next-steps-generative-ai-for-beginners)
+**Learn:** How to scale apps, best practices, monitoring, and next steps.  
+🔗 [Course Link](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners)
